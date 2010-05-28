@@ -1,0 +1,10 @@
+## Interface: 30300
+## Title: EnchantScrollMats
+## Notes: Shows the mats for an enchant scroll whenever the tooltip is displayed
+## Author: Quaiche
+## Version: @project-version@
+## X-Category: Misc
+## X-License: Apache 2.0
+## Dependencies: TradeskillInfo
+
+EnchantScrollMats.lua
